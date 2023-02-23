@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CryptoChat</string>
+    <string name="chat_list_is_empty_head">Чати відсутні</string>
+    <string name="chat_list_is_empty_body">Ви можете додати чати, натиснувши на кнопку у правому верхньому куті або на кнопку нижче</string>
+</resources>
